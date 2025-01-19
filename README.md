@@ -6,7 +6,7 @@
 
 - 🌱 My goal **is to become a full-stack developer, so I’m learning Node.js to strengthen my skills. I’m also diving into Python to explore more of the AI world!**
 
-- 📫 How to reach me **javierszarate@gmail.com**
+- 📫 How to reach me **javiersanchezzar@gmail.com**
 
 - ⚡ Fun fact **I once accidentally created an infinite loop that printed out the entire Bee Movie script. Let's just say debugging that was quite the adventure!**
 
