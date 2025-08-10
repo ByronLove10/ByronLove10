@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate student of Computer Engineering UPC</h3>
 
-- 🔭 I'm a currently **interning as a back-end developer at Bookline SL**
+- 🔭 I’m currently **finishing my degree** and working on two projects: one full-stack and another focused on pipeline and machine learning.
 
-- 🌱 My goal **is to become a full-stack developer, so I’m learning Node.js to strengthen my skills. I’m also diving into Python to explore more of the AI world!**
+- 🌱 My goal is to become a **full-stack developer**, and in the long run, either a **software project leader** or **to start my own software company**. I’m constantly learning and exploring new technologies
+
+- 💻 The last year, I’ve been working with **Bookline SL** diving deeper and strengthen my development skills. I´m also exploring the world of artificial intelligence with Python.
 
 - 📫 How to reach me **javiersanchezzar@gmail.com**
 
