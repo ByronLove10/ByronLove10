@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate student of Computer Engineering UPC</h3>
 
-- 🔭 I’m currently **finishing my degree** and working on two projects: one full-stack and another focused on pipeline and machine learning.
+- 🔭 I’m currently **finishing my degree** and working on two projects: one full-stack and another focused on pipelines and machine learning.
 
 - 🌱 My goal is to become a **full-stack developer**, and in the long run, either a **software project leader** or **to start my own software company**. I’m constantly learning and exploring new technologies
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/javier-sánchez-zárate-459178296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-sánchez-zárate-459178296/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/javier-sánchez-zárate-459178296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-sánchez-zárate-459178296/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
