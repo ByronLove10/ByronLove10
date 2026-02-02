@@ -1,12 +1,14 @@
 ![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="center">A passionate student of Computer Engineering UPC</h3>
+<h3 align="center">Computer Engineering student at UPC · Founding Engineer & Partner at Neod</h3>
 
-- 🔭 I’m currently **finishing my degree** and working on two projects: one full-stack and another focused on pipelines and machine learning.
+- 🚀 Building AI products at Neod (voice + chat agents), focusing on reliability, scalability, and real-world impact.
 
-- 🌱 My goal is to become a **full-stack developer**, and in the long run, either a **software project leader** or **to start my own software company**. I’m constantly learning and exploring new technologies
+- 🔭 I’m currently **finishing my degree** while shipping production features end-to-end (backend, integrations, tooling, and UX).
 
-- 💻 The last year, I’ve been working with **Bookline SL** diving deeper and strengthen my development skills. I´m also exploring the world of artificial intelligence with Python.
+- 🌱 I’m growing as a **full-stack developer**, with a strong interest in **LLMs, agent systems and automation.** 
+
+- 💻 Previously, I worked at **Bookline SL**, strengthening my development foundations and learning how software behaves in real environments.
 
 - 📫 How to reach me **javiersanchezzar@gmail.com**
 
