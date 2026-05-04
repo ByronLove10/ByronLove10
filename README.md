@@ -1,23 +1,26 @@
-![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
-<h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="center">Computer Engineering student at UPC </h3>
+# Hi, I'm Javier 👋
 
-- 🚀 Building AI products at Neod (voice + chat agents), focusing on reliability, scalability, and real-world impact.
+Software Engineer graduating June 2026 from UPC Barcelona, 
+focused on AI-driven backend systems and LLM applications.
 
-- 🔭 I’m currently **finishing my degree** while shipping production features end-to-end (backend, integrations, tooling, and UX).
+## 🔧 What I work with
 
-- 🌱 I’m growing as a **full-stack developer**, with a strong interest in **LLMs, agent systems and automation.** 
+**AI & LLMs:** OpenAI API · RAG pipelines · Vector databases · ElevenLabs · Prompt engineering  
+**Backend:** Python · FastAPI · Django · REST APIs · PostgreSQL · MySQL  
+**Cloud & Infra:** Docker · Kubernetes · Google Cloud · Firebase · CI/CD  
+**Frontend:** React · Vue.js  
 
-- 💻 Previously, I worked at **Bookline SL**, strengthening my development foundations and learning how software behaves in real environments.
+## 🚀 What I've built
 
-- 📫 How to reach me **javiersanchezzar@gmail.com**
+- **RAG-based chatbot platform** for universities — sole backend engineer, 
+  built with OpenAI, Milvus, and Google Cloud
+- **AI voice agents** for hotel reservations using ElevenLabs 
+  and end-to-end voice pipelines
+- **Automated REST API test generation** using LLMs (final thesis, UPC)
+- **Conversational AI backend** at Bookline — multilingual systems 
+  for hotel clients across 4+ languages
 
-- ⚡ Fun fact **I once accidentally created an infinite loop that printed out the entire Bee Movie script. Let's just say debugging that was quite the adventure!**
+## 📫 Let's connect
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/javier-sánchez-zárate-459178296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-sánchez-zárate-459178296/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Sánchez-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/javier-sánchez-zárate-459178296/)
+[![Email](https://img.shields.io/badge/Email-javiersanchezzar%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:javiersanchezzar@gmail.com)
