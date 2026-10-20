@@ -1,6 +1,6 @@
 # Hi, I'm Javier 👋
 
-Software Engineer graduating June 2026 from UPC Barcelona, 
+AI Engineer graduated in June 2026 from UPC Barcelona, 
 focused on AI-driven backend systems and LLM applications.
 
 ## 🔧 What I work with
